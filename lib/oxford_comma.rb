@@ -12,4 +12,3 @@ def oxford_comma(array)
     return "#{array_orig}, and #{array_new}"
   end
 end
-
